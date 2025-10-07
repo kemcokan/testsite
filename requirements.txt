@@ -1,3 +1,9 @@
-streamlit
+kaleido
+matplotlib
+matplotlib-inline
+numpy
+openpyxl
 pandas
-webbrowser
+plotly
+streamlit
+statsmodels
