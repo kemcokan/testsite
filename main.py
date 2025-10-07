@@ -21,7 +21,7 @@ if st.button('Search'):
     if heigh > 0:
         url = url + f'&high-price={heigh}'
 
-    # new = 動作
+    # new = 動作方法
     # 0 = 同じウインドウで開く
     # 1 = 新しいウインドウで開く
     # 2 = 新しいタブで開く
